@@ -109,4 +109,3 @@ function closeNav() {
 <p style=";font-size: 20px;" >Why are these people watching this?</p>
 <p>Answer : Because they are interested in this type of content and maybe they are just bored at a moment and decided to watch a stream, for them to learn more and discover.</p>
 
-</div>
