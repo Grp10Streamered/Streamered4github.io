@@ -54,9 +54,9 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
- <a href="file:///C:/Users/Administrator/Documents/LL2.htm">Home</a>
+ <a href="https://grp10streamered.github.io/Streamered2github.io/">Home</a>
 <a href="https://grp10streamered.github.io/Streamered3github.io/">Viewer analysis and Characteristics of a good stream</a>
-  <a href="file:///C:/Users/Administrator/Documents/GXG2.htm">Contents</a>
+  <a href="https://grp10streamered.github.io/Streamered4github.io/">Contents</a>
   <a href="https://grp10streamered.github.io/Streameredgithub.io/">Contact And Sources</a>
 </div>
 
@@ -65,8 +65,8 @@ body {
   </div>
 
 <body style="background-color:black;color:white">
-
-<img src="/images/STREAMERED.jpg" alt="STREAMERED" style="width="350" height="250">
+  
+<iframe width="888" height="444" src="https://docs.google.com/presentation/d/1WHYS5r-tcbPNOByU1q1gTi5Q77XoxaP-EgfCPA9Vkh0/edit?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div id="main">
@@ -95,14 +95,8 @@ function closeNav() {
   <li>TV shows - The proper examples of this is in facebook live, youtube live and Twitch</li>
   <li>Cooking streams -Steaming is a method of cooking using steam. This is often done with a food steamer, a kitchen appliance made specifically to cook food with steam, but food can also be steamed in a wok. ... Steaming is considered a healthy cooking technique that can be used for many kinds of foods. </li>
 </ul>
-<p>Example for Gaming streams</p>
-<img src="/images/VAL.png" alt="VAL.png" style="width="350" height="250">
-<p>Example For Movie Streaming</p>
-<img src="/images/VA.png" alt="VA" width="350" height="250">
-<p>Example for Tv-shows streams</p>
-<img src="/images/V.png" alt="V" width="350" height="250">
-<p>Example for Cooking streams</p>
-<img src="/images/L.png" alt="L" width="350" height="250">
+
+<iframe width="888" height="444" src="https://docs.google.com/presentation/d/1WHYS5r-tcbPNOByU1q1gTi5Q77XoxaP-EgfCPA9Vkh0/edit?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1 style="color:violet;font-size: 40px;"> <b> Need of viewers
 </b></h1>
